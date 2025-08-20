@@ -1,3 +1,5 @@
+![Banner](https://github.com/sn-chr/sn-chr/blob/main/banner.png?raw=true)
+
 # 🚀 Solana Blockchain Developer | DeFi, NFT & Trading Bots
 
 Hi there! 👋 I’m a blockchain developer specializing in the **Solana ecosystem**, building **high-performance, secure, and scalable blockchain solutions**.  
